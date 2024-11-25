@@ -89,11 +89,23 @@ ProgressBar를 통한 학습 진도 시각화
 
 [GitHub Repository](https://github.com/kisayo11/LearnByJiaeJiyoon)
 
-### 3. 여기플랜 - 여행 일정 공유 웹사이트
+### 1. 여기플랜 (YeogiPlan) - 여행 일정 공유 웹사이트
+[원본 프로젝트 링크(https://github.com/fuciple0/YeogiPlan_Project)]
 
-사용자 맞춤형 여행 계획 수립 및 공유 플랫폼
-🗓 2024.11.01 ~ 2024.11.14 (2주)
-👥 팀 프로젝트 (4인) - Backend & MyPage 담당
+> 사용자 맞춤형 여행 계획 수립 및 공유 플랫폼
+> 
+> 🗓 2024.11.01 ~ 2024.11.14 (2주)
+> 
+> 👥 팀 프로젝트 (4인)
+
+#### 👨‍💻 담당 역할
+- Backend 개발 총괄
+  - Node.js/Express 서버 구축
+  - REST API 설계 및 구현
+  - AWS 인프라 설정
+- 프론트엔드 마이페이지 개발
+  - React/Redux를 활용한 상태관리
+  - 사용자 여행 기록 CRUD 구현
 
 ⭐ 주요 기능
 Google Maps API 활용 여행지 검색/저장/마커 시각화
