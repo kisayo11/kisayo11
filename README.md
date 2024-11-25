@@ -79,7 +79,8 @@
 **기술 스택**
 - `React` `Redux` `Node.js`
 - `AWS` `JWT` `Google Maps API`
-
+- 
+[GitHub Repository](https://github.com/kisayo11/YeogiPlan_Project)
 
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sangyong.kimm@gmail.com)
