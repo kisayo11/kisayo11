@@ -37,7 +37,7 @@
 
 ### 1. Sspurt - 운동 기록관리 공유 앱
 > 실시간 운동 경로 추적과 공유 기능을 제공하는 안드로이드 애플리케이션
-> 
+> 1인개발 프로젝트
 > 🗓 2024.09.04 ~ 2024.10.11 (5주)
 
 #### ⭐ 주요 기능
@@ -47,59 +47,63 @@
 - 상세한 운동 통계 및 분석 기능
 
 #### 🔧 기술 스택
-Frontend
-- Android / Kotlin
-- MVVM 아키텍처 패턴
+Android Development
+- Kotlin
+- MVVM Architecture
 - ForegroundService
-- RecyclerView, Fragment, BottomNavigationView
+- RecyclerView, Fragment
+- BottomNavigationView
 
 Backend & API
-- Google Maps API, Firestore
-- Retrofit, Kakao/Naver API
-- XmlPullParser, ViewModel
+- Google Maps API
+- Firebase Firestore
+- Retrofit
+- Kakao/Naver API
+- XmlPullParser
 
 UI/UX
-- Glide, Lottie Animation
+- Glide
+- Lottie Animation
 
 [GitHub Repository](https://github.com/kisayo11/Sspurt)
 
-### 2. 한지애,한지윤 공부 프로젝트 (개인 프로젝트)
+### 2. 한지애,한지윤 공부 프로젝트
+> 1인개발 프로젝트
 > 2024.08.23 ~ 2024.08.30 (1주)
 
 어린이를 위한 영어/한글 학습 애플리케이션
 
 ⭐ 주요 기능
-
 GridLayout 기반 단어 학습 인터페이스
 TTS 활용 발음 학습
 ProgressBar를 통한 학습 진도 시각화
 로컬 데이터베이스 활용
 
 🔧 기술 스택
-textCopy- Android / Kotlin
+- Android/Kotlin
 - Android TextToSpeech
-- Firestore Database
+- Firebase Firestore
 - Lottie Animation
+- GridLayout
+- ProgressBar
 
 [GitHub Repository](https://github.com/kisayo11/LearnByJiaeJiyoon)
 
-2. 여기플랜 - 여행 일정 공유 웹사이트
+### 3. 여기플랜 - 여행 일정 공유 웹사이트
 
 사용자 맞춤형 여행 계획 수립 및 공유 플랫폼
 🗓 2024.11.01 ~ 2024.11.14 (2주)
 👥 팀 프로젝트 (4인) - Backend & MyPage 담당
 
 ⭐ 주요 기능
-
 Google Maps API 활용 여행지 검색/저장/마커 시각화
-여행 일정 CRUD 구현
-여행지 리뷰 작성 및 평점 시스템
-여행 정보 공유 커뮤니티 게시판
-JWT 기반 회원가입/로그인 인증
+여행 일정 CRUD 및 리뷰/평점 시스템
+JWT 기반 회원 인증
+여행 정보 공유 커뮤니티
 마이페이지 내 일정/리뷰 관리
 
 🔧 기술 스택
-textCopyFrontend
+Frontend
 - React, Redux
 - 반응형 웹 디자인
 
@@ -108,10 +112,13 @@ Backend
 - AWS 인프라 구축
 - REST API 설계
 
+Database & API
+- MySQL
+- Google Maps API
+- JWT Authentication
+
 Tools
-- GitHub
-- Notion, Slack
-  
+- GitHub, Notion, Slack
 [GitHub Repository](https://github.com/kisayo11/YeogiPlan_Project)
 
 ## 📫 Contact
