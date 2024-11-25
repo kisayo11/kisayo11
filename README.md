@@ -36,6 +36,7 @@
 ## 💻 Projects
 
 ### 1. Sspurt - 운동 기록관리 공유 앱
+(https://github.com/kisayo11/Sspurt)
 > 실시간 운동 경로 추적과 공유 기능을 제공하는 안드로이드 애플리케이션
 > 1인개발 프로젝트
 > 🗓 2024.09.04 ~ 2024.10.11 (5주)
@@ -65,9 +66,10 @@ UI/UX
 - Glide
 - Lottie Animation
 
-[GitHub Repository](https://github.com/kisayo11/Sspurt)
+  
 
 ### 2. 한지애,한지윤 공부 프로젝트
+(https://github.com/kisayo11/LearnByJiaeJiyoon)
 > 1인개발 프로젝트
 > 2024.08.23 ~ 2024.08.30 (1주)
 
@@ -87,15 +89,13 @@ ProgressBar를 통한 학습 진도 시각화
 - GridLayout
 - ProgressBar
 
-[GitHub Repository](https://github.com/kisayo11/LearnByJiaeJiyoon)
 
-### 1. 여기플랜 (YeogiPlan) - 여행 일정 공유 웹사이트
-[원본 프로젝트 링크(https://github.com/fuciple0/YeogiPlan_Project)]
+
+### 3. 여기플랜 (YeogiPlan) - 여행 일정 공유 웹사이트
+(https://github.com/fuciple0/YeogiPlan_Project)
 
 > 사용자 맞춤형 여행 계획 수립 및 공유 플랫폼
-> 
 > 🗓 2024.11.01 ~ 2024.11.14 (2주)
-> 
 > 👥 팀 프로젝트 (4인)
 
 #### 👨‍💻 담당 역할
