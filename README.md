@@ -138,7 +138,7 @@ UI/UX
 
 
 
-### 3. 여기플랜 (YeogiPlan) - 여행 일정 공유 웹사이트
+### 5. 여기플랜 (YeogiPlan) - 여행 일정 공유 웹사이트
 (https://github.com/fuciple0/YeogiPlan_Project)
 
 > 사용자 맞춤형 여행 계획 수립 및 공유 플랫폼
