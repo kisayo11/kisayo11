@@ -67,9 +67,55 @@ UI/UX
 - Glide
 - Lottie Animation
 
+
+### 2. 나의 혈당 수첩
+(https://github.com/kisayo11/bloodsugerrecord)
+
+> 당뇨환자분들을 위한 디지털 혈당관리수첩
+- 1인개발 프로젝트
+  
+⭐ 주요 기능
+- 일일 공복/식전/식후 혈당, 체중 모니터링
+- MPAndroidChart로 구현된 주간 혈당 그래프
+- 전체 기록 타임라인 및 특이사항 메모, 일별 데이터 삭제
+- 진료 히스토리 관리
+- 다양한 기간 기록 분석 (평균혈당, 최고/최저 수치)
+- 개인화된 알림 설정과 데이터 관리
+- CSV 내보내기 & 데이터 초기화 (보안 잠금)
+
+🔧 기술 스택
+- Android/Kotlin
+- MVVM
+- ROOM DATABASE
+- MPAndroidChart
+- Coroutines
+- Navigation Component
+- Livedata & ViewModel
+
   
 
-### 2. 한지애,한지윤 공부 프로젝트
+### 3. 100대 명산 실시간 날씨 정보
+(https://github.com/kisayo11/Mountain100)
+
+> 전국의 주요 산들의 상세 정보와 실시간 날씨, 시간별/주간 날씨 예보 제공
+- 1인개발 프로젝트
+
+⭐ 주요 기능
+- 실시간 검색 필터링
+- 실시간 날씨 현황
+- 체감 온도, 습도, 풍속, 강수확률, 적설량 등 상세 정보
+
+🔧 기술 스택
+- Android/Kotlin
+- MVVM
+- LiveData
+- OpenWeatherMap API
+- Coroutines/Async
+- Glide
+
+  
+
+### 4. 한지애,한지윤 공부 프로젝트
 (https://github.com/kisayo11/LearnByJiaeJiyoon)
 
 > 어린이를 위한 영어/한글 학습 애플리케이션
