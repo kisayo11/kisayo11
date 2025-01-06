@@ -69,7 +69,7 @@ UI/UX
 
 
 ### 2. 나의 혈당 수첩
-(https://github.com/kisayo11/bloodsugerrecord)
+([https://github.com/kisayo11/bloodsugerrecord](https://github.com/kisayo11/bloodsugarrecord))
 
 > 당뇨환자분들을 위한 디지털 혈당관리수첩
 - 1인개발 프로젝트
@@ -95,7 +95,7 @@ UI/UX
   
 
 ### 3. 100대 명산 실시간 날씨 정보
-(https://github.com/kisayo11/Mountain100)
+([https://github.com/kisayo11/Mountain100](https://github.com/kisayo11/Mountian100))
 
 > 전국의 주요 산들의 상세 정보와 실시간 날씨, 시간별/주간 날씨 예보 제공
 - 1인개발 프로젝트
