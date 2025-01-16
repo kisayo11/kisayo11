@@ -92,6 +92,7 @@ UI/UX
 - Coroutines
 - Navigation Component
 - Livedata & ViewModel
+- Compose
 
   
 
